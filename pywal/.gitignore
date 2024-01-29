@@ -1,0 +1,9 @@
+dist/*
+pywal.egg-info/*
+*.pyc
+subprocess
+re
+build/*
+.coverage
+.vscode/*
+__pycache__/*

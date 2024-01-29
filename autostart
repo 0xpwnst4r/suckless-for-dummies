@@ -1,0 +1,8 @@
+#!/bin/sh
+/home/$USER/.suckless/auto.sh & 
+xcompmgr &
+while true; do
+  xsetroot -name "$(date)"
+  sleep 10s
+done &
+dwm
