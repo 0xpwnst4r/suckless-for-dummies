@@ -1,4 +1,4 @@
-# Easy suckless install guide for dummies!! Enjoy!!
+# Easy suckless installation guide for dummies!! Enjoy!!
 
 ## Requiremets
 - To build dwm you will need the **Xlib** header files.
