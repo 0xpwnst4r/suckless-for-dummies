@@ -21,7 +21,7 @@ sudo apt install build-essential libx11-dev libxft-dev  libxinerama-dev libfreet
 - `sudo apt install xcompmgr`
 - `sudo apt install feh`
 - `sudo apt install xdotool`
-- `cd /home/$USER/.suckless/fonts && sudo mv sudo mv jetBrainsMono JetBrainsMonoNerd fontawesome-free -t /usr/share/fonts/`
+- `cd /home/$USER/.suckless/fonts && sudo mv jetBrainsMono JetBrainsMonoNerd fontawesome-free -t /usr/share/fonts/`
 - Goto `/usr/share/xsessions/` path location and make a file named `dwm.desktop` and put the below written script in it.
 ```
 [Desktop Entry]
